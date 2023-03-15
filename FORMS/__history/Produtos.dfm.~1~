@@ -1,0 +1,57 @@
+object Form2: TForm2
+  Left = 0
+  Top = 0
+  Caption = 'Form2'
+  ClientHeight = 554
+  ClientWidth = 774
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object PnlTopo: TPanel
+    Left = 0
+    Top = 0
+    Width = 774
+    Height = 91
+    Align = alTop
+    Color = -1
+    TabOrder = 0
+    object lblCadastro: TLabel
+      Left = 45
+      Top = 29
+      Width = 358
+      Height = 40
+      Caption = 'Cadastro de Produtos'
+      Color = -1
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWhite
+      Font.Height = -33
+      Font.Name = 'Tahoma'
+      Font.Style = [fsBold]
+      ParentColor = False
+      ParentFont = False
+    end
+    object DBNavigator1: TDBNavigator
+      Left = 500
+      Top = 21
+      Width = 184
+      Height = 50
+      VisibleButtons = [nbFirst, nbPrior, nbNext, nbLast]
+      TabOrder = 0
+    end
+  end
+  object pnlBottom: TPanel
+    Left = 0
+    Top = 90
+    Width = 774
+    Height = 464
+    Align = alBottom
+    Color = 2434341
+    TabOrder = 1
+  end
+end

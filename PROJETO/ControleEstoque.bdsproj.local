@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/03/14 16:22:31.321.pas,C:\Documents and Settings\Aldo\Meus documentos\Borland Studio Projects\Unit1.pas=C:\Documents and Settings\Aldo\Meus documentos\Projetos Delphi\Controle de Estoque\FORMS\Principal.pas</Transaction>
+    <Transaction>2023/03/14 16:22:31.321.dfm,C:\Documents and Settings\Aldo\Meus documentos\Borland Studio Projects\Unit1.dfm=C:\Documents and Settings\Aldo\Meus documentos\Projetos Delphi\Controle de Estoque\FORMS\Principal.dfm</Transaction>
+    <Transaction>2023/03/14 16:22:58.573.bdsproj,C:\Documents and Settings\Aldo\Meus documentos\Borland Studio Projects\Project1.bdsproj=C:\Documents and Settings\Aldo\Meus documentos\Projetos Delphi\Controle de Estoque\PROJETO\ControleEstoque.bdsproj</Transaction>
+    <Transaction>2023/03/14 16:24:17.503.pas,C:\Documents and Settings\Aldo\Meus documentos\Projetos Delphi\Controle de Estoque\PROJETO\Unit1.pas=C:\Documents and Settings\Aldo\Meus documentos\Projetos Delphi\Controle de Estoque\FORMS\UDM.pas</Transaction>
+    <Transaction>2023/03/14 16:24:17.503.dfm,C:\Documents and Settings\Aldo\Meus documentos\Projetos Delphi\Controle de Estoque\PROJETO\Unit1.dfm=C:\Documents and Settings\Aldo\Meus documentos\Projetos Delphi\Controle de Estoque\FORMS\UDM.dfm</Transaction>
+    <Transaction>2023/03/14 16:51:26.775.pas,C:\Documents and Settings\Aldo\Meus documentos\Projetos Delphi\Controle de Estoque\PROJETO\Unit2.pas=C:\Documents and Settings\Aldo\Meus documentos\Projetos Delphi\Controle de Estoque\FORMS\Produtos.pas</Transaction>
+    <Transaction>2023/03/14 16:51:26.775.dfm,C:\Documents and Settings\Aldo\Meus documentos\Projetos Delphi\Controle de Estoque\PROJETO\Unit2.dfm=C:\Documents and Settings\Aldo\Meus documentos\Projetos Delphi\Controle de Estoque\FORMS\Produtos.dfm</Transaction>
+    <Transaction>2023/03/15 09:46:05.580.pas,C:\Documents and Settings\Aldo\Meus documentos\Projetos Delphi\Controle de Estoque\PROJETO\Unit1.pas=C:\Documents and Settings\Aldo\Meus documentos\Projetos Delphi\Controle de Estoque\FORMS\CadMovimentacao.pas</Transaction>
+    <Transaction>2023/03/15 09:46:05.580.dfm,C:\Documents and Settings\Aldo\Meus documentos\Projetos Delphi\Controle de Estoque\PROJETO\Unit1.dfm=C:\Documents and Settings\Aldo\Meus documentos\Projetos Delphi\Controle de Estoque\FORMS\CadMovimentacao.dfm</Transaction>
+    <Transaction>2023/03/15 11:53:05.364.pas,C:\Documents and Settings\Aldo\Meus documentos\Projetos Delphi\Controle de Estoque\PROJETO\Unit1.pas=C:\Documents and Settings\Aldo\Meus documentos\Projetos Delphi\Controle de Estoque\FORMS\ConsultaMovimentacao.pas</Transaction>
+    <Transaction>2023/03/15 11:53:05.364.dfm,C:\Documents and Settings\Aldo\Meus documentos\Projetos Delphi\Controle de Estoque\PROJETO\Unit1.dfm=C:\Documents and Settings\Aldo\Meus documentos\Projetos Delphi\Controle de Estoque\FORMS\ConsultaMovimentacao.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

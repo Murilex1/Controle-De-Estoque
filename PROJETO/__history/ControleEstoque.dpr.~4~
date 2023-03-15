@@ -1,0 +1,17 @@
+program ControleEstoque;
+
+uses
+  Forms,
+  Principal in '..\FORMS\Principal.pas' {FrmPrincipal},
+  UDM in '..\FORMS\UDM.pas' {DM: TDataModule},
+  Produtos in '..\FORMS\Produtos.pas' {FrmProdutos};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.CreateForm(TFrmPrincipal, FrmPrincipal);
+  Application.CreateForm(TDM, DM);
+  Application.CreateForm(TFrmProdutos, FrmProdutos);
+  Application.Run;
+end.

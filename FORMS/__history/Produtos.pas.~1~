@@ -1,0 +1,28 @@
+unit Produtos;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, DBCtrls, StdCtrls, ExtCtrls;
+
+type
+  TForm2 = class(TForm)
+    PnlTopo: TPanel;
+    pnlBottom: TPanel;
+    lblCadastro: TLabel;
+    DBNavigator1: TDBNavigator;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form2: TForm2;
+
+implementation
+
+{$R *.dfm}
+
+end.
